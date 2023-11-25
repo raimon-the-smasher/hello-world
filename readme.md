@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 this is written after creation after the creation of the git hub account in the github 
 with the help of w3school gitand github page
+
+this is being written for git pull showcase
